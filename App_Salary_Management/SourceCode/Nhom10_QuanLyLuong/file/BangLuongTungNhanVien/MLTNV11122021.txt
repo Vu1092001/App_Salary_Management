@@ -1,0 +1,21 @@
+BẢNG LƯƠNG THÁNG 12 NĂM 2021
+
+Mã nhân viên: NV11
+Tên nhân viên: Đặng Thị Mỹ Duyên
+Đơn vị: Phòng hành chánh
+
+Bảng chấm công
+Ngày chấm công            Đi làm          Làm thêm       
+2021-12-21                Có              Có             
+2021-12-20                Không           Có             
+Tổng số ngày đi làm trong tháng: 1
+Tổng số buổi làm thêm trong tháng: 2
+
+Tiền lương tháng: 
+	- Lương ngày cơ bản: 200,000 VNĐ
+	- Tổng lương tháng: 800,000 VNĐ
+	- Tiền phụ cấp: 0 VNĐ
+	- Khấu trừ: 
+		Tiền kỷ luật: 0 VNĐ
+		Tiền BHXH: 0 VNĐ
+	- Thực lĩnh: 800,000 VNĐ

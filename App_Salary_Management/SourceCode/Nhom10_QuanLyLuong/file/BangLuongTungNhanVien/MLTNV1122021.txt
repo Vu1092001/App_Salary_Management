@@ -1,0 +1,21 @@
+BẢNG LƯƠNG THÁNG 12 NĂM 2021
+
+Mã nhân viên: NV1
+Tên nhân viên: Nguyễn Văn Long
+Đơn vị: Phòng hành chánh
+
+Bảng chấm công
+Ngày chấm công            Đi làm          Làm thêm       
+2021-12-21                Có              Không          
+2021-12-20                Có              Có             
+Tổng số ngày đi làm trong tháng: 1
+Tổng số buổi làm thêm trong tháng: 2
+
+Tiền lương tháng: 
+	- Lương ngày cơ bản: 206,000 VNĐ
+	- Tổng lương tháng: 721,000 VNĐ
+	- Tiền phụ cấp: 0 VNĐ
+	- Khấu trừ: 
+		Tiền kỷ luật: 0 VNĐ
+		Tiền BHXH: 0 VNĐ
+	- Thực lĩnh: 721,000 VNĐ

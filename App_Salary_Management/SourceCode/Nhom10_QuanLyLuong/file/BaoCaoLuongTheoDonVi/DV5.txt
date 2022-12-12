@@ -1,0 +1,13 @@
+BẢNG LƯƠNG THÁNG 12 NĂM 2021
+
+Mã đơn vị: DV5
+Tên đơn vị: Phân xưởng 2
+
+Danh sách lương: 
+	Mã lương tháng            Mã nhân viên              Tên nhân viên                                      Lương tháng               Tiền BHXH                 Tiền kỷ luật              Phụ cấp                   Thực lĩnh                
+	MLTNV26122021             NV26                      Nguyễn Văn Minh                                    385,000                   0                         0                         0                         385,000                  
+	MLTNV27122021             NV27                      Trương Thành Long                                  1,255,000                 0                         0                         0                         1,255,000                
+	MLTNV28122021             NV28                      Trần Lệ Quyên                                      322,500                   0                         0                         0                         322,500                  
+	MLTNV29122021             NV29                      Phạm Đức Thắng                                     687,500                   0                         0                         0                         687,500                  
+	MLTNV32122021             NV32                      Phạm Thị Anh Thư                                   890,000                   0                         0                         0                         890,000                  
+Tổng lương đơn vị: 3,540,000VNĐ

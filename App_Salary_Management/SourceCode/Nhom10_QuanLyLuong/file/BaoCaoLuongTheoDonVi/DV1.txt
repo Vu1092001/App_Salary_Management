@@ -1,0 +1,11 @@
+BẢNG LƯƠNG THÁNG 12 NĂM 2021
+
+Mã đơn vị: DV1
+Tên đơn vị: Phòng hành chánh
+
+Danh sách lương: 
+	Mã lương tháng            Mã nhân viên              Tên nhân viên                                      Lương tháng               Tiền BHXH                 Tiền kỷ luật              Phụ cấp                   Thực lĩnh                
+	MLTNV1122021              NV1                       Nguyễn Văn Long                                    721,000                   0                         0                         0                         721,000                  
+	MLTNV11122021             NV11                      Đặng Thị Mỹ Duyên                                  800,000                   0                         0                         0                         800,000                  
+	MLTNV21122021             NV21                      Văn Khang Phan                                     500,000                   0                         0                         0                         500,000                  
+Tổng lương đơn vị: 2,021,000VNĐ
